@@ -1,0 +1,6 @@
+echo "# hello world" >> README.md
+git init
+git add README.md
+git commit -m "initial commit"
+git remote add origin gitopia://gitopia1pxdhd5d3442k3mhhdqyjdachlfla88j2nvn30r/Kolhyd-Uixps
+git push -u origin master
